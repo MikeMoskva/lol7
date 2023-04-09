@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    background-color:rgb(8, 8, 177);
+    color: white;
+
+}
+
+header {
+    background-color:rgb(8, 8, 177);
+    color: gray;
+    border: 1px solid rgb(8, 8, 177); 
+    border-radius: 20px;
+    padding: 5px;
+}
+
+h1{
+    color: blueviolet;
+    font-weight: normal;
+}
+
+footer p{
+    background-color:green;
+    padding: 5px;
+}
+
+nav a{
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: blue;
+    color:white;
+    padding: 1px;
+    margin: 40px;
+    border: 3px solid blue;
+}
+
+.imba{
+    background-color: white;
+    color: royalblue;
+}
+
+.lol {
+    background-color: olive;
+}
+
+.pon{
+    color: blue;
+}
+
+.ton{
+    border: 1px solid rgb(65, 156, 225);
+    border-radius: 10px;
+}
